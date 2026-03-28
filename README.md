@@ -1,5 +1,5 @@
 # Design-an-Automatic-street-light-PCB-circuit-using-Eagle-software-and-generate-the-Gerber-file.
-## Exp 8: Design an Automatic street light circuit using Eagle software
+## Exp 4: Design an Automatic street light circuit using Eagle software
 ## AIM:
 To design the schematic and PCB layout diagram of an automatic street light circuit using Eagle software.
 ## EQUIPMENT REQUIRED:
